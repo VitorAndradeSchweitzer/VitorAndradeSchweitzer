@@ -2,7 +2,7 @@
 
 
 ## Tecnologias dominadas
-![django_image]({https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green})
+![django_image](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white})
 
 ## Contato
 [Linkedin](https://www.linkedin.com/in/vitorandradeschweitzer/)
