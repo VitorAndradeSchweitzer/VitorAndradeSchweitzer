@@ -15,4 +15,4 @@
 
 
 ## Contato
-### Para falar comigo você acessar meu [Linkedin](https://www.linkedin.com/in/vitorandradeschweitzer/) ou me mandar um [Email](mailto:vitor.a.schweitzer@gmail.com)
+### Para falar comigo você pode acessar meu [Linkedin](https://www.linkedin.com/in/vitorandradeschweitzer/) ou me mandar um [Email](mailto:vitor.a.schweitzer@gmail.com)
