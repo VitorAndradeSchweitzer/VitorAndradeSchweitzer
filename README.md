@@ -14,5 +14,5 @@
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-## Contato
+## 🌐Contato
 ### Para falar comigo você pode acessar meu [Linkedin](https://www.linkedin.com/in/vitorandradeschweitzer/) ou me mandar um [Email](mailto:vitor.a.schweitzer@gmail.com)
