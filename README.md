@@ -1,8 +1,8 @@
 ## 🤵Olá, sou o Vitor 
-### Sou um estudante de  Sistemas de informação na Universidade Federal de Santa Catarina, 
+### Sou um estudante de  Sistemas de informação na Universidade Federal de Santa Catarina, buscando sempre melhorar todos os dias, me dedico a evoluir tanto o meu conhecimento em novas tecnologias quanto aprimorar minhas softskills!
 
 ## 🚀Objetivos
-### Atualmente busco me tornar um desenvolvendor web fullstack.
+### Atualmente busco melhorar minhas habilidades de programação com o objetivo de me tornar um desenvolvedor de software fullstack.
 
 ##  🛠️Estudando
 ### ![image](	https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
