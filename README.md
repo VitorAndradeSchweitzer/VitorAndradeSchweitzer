@@ -1,7 +1,8 @@
 ## Olá, sou o Vitor 👋
+### Sou um estudante de  Sistemas de informação na Universidade Federal de Santa Catarina, 
 
 ## Objetivos
-### Atualmente busco me tornar um desenvolvendor fullstack. possuo mais familiaridade com backend mesmo já tendo feito landing pages e outros projetos frondend
+### Atualmente busco me tornar um desenvolvendor web fullstack.
 
 ## Estudando
 ### ![image](	https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
@@ -14,32 +15,4 @@
 
 
 ## Contato
-[Linkedin](https://www.linkedin.com/in/vitorandradeschweitzer/) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**VitorAndradeSchweitzer/VitorAndradeSchweitzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para falar comigo você acessar meu [Linkedin](https://www.linkedin.com/in/vitorandradeschweitzer/) ou me mandar um [Email](mailto:vitor.a.schweitzer@gmail.com)
