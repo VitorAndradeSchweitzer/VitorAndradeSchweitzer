@@ -1,11 +1,11 @@
 ## Hi there 👋
-## Contato
-[Linkedin](https://www.linkedin.com/in/vitorandradeschweitzer/)
+
 
 ## Tecnologias dominadas
-![image]({https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green})
+![django_image]({https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green})
 
-
+## Contato
+[Linkedin](https://www.linkedin.com/in/vitorandradeschweitzer/)
 
 
 
